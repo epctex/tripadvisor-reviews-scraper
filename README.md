@@ -159,7 +159,7 @@ Designed for efficiency, the scraper can handle extensive data extraction tasks,
 No, the TripAdvisor Reviews Scraper Actor is designed to be user-friendly, requiring no technical skills for setup or operation, making it accessible to all users.
 
 **🔍 What if I need to start with keyword research?**<br/>
-For those instances, the TripAdvisor Scraper is available. It's designed to initiate the data collection process with keyword research, helping users gather data on places, including descriptions, locations, ratings, and more.
+For those instances, the [TripAdvisor Scraper](https://apify.com/epctex/tripadvisor-scraper?fpr=yhdrb) is available. It's designed to initiate the data collection process with keyword research, helping users gather data on places, including descriptions, locations, ratings, and more.
 
 ## Contact
 Please visit us through [epctex.com](https://epctex.com) to see all the products that are available for you. If you are looking for any custom integration or so, please reach out to us through the chat box in [epctex.com](https://epctex.com). In need of support? [devops@epctex.com](mailto:devops@epctex.com) is at your service.
