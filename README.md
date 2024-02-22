@@ -148,7 +148,7 @@ The structure of each item in the TripAdvisor Reviews scraper looks like this:
 ```
 
 ## How to use TripAdvisor Reviews Scraper
-https://youtube.com/shorts/tAJ9JZIUNqE?feature=shared
+https://www.youtube.com/watch?v=tAJ9JZIUNqE&ab_channel=epctex
 
 ## FAQ
 **🎯 Can I target specific TripAdvisor listings for review extraction?**<br/>
