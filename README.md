@@ -147,6 +147,9 @@ The structure of each item in the TripAdvisor Reviews scraper looks like this:
 }
 ```
 
+## How to use TripAdvisor Reviews Scraper
+https://youtube.com/shorts/tAJ9JZIUNqE?feature=shared
+
 ## FAQ
 **🎯 Can I target specific TripAdvisor listings for review extraction?**<br/>
 Absolutely. The TripAdvisor Reviews Scraper Actor allows users to specify URLs of specific listings to precisely target the data needed.
